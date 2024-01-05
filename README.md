@@ -1,12 +1,11 @@
-# Azure-RTOS-
+# Azure-RTOS-RZ/A
 This is the RZA1 Software Development with Microsoft Azure Support. The SDK contains the RZA1 Board Support Package and drivers for the RZA1 LU, LC, L, M, and H target Processors, the Asure RTOS ( Threadx), Azure middleware ( USB Host, USB Device, Network, IoT, Filesystem, GUI Development). In driver GPIO code generation has been integrated with the RZA1 Smart Configurator.
-## Microsoft Azure Libraries
-The Microsoft Azure software is supported by the Azure Microsoft Team. This repository includes the library debug binaries. The full source code for the listed libraries can be found here.
 ## Required Software
-
-### License
 ​ GNU ARM Compiler version 6.3.1.2017062
 ​ IDE Renesas e2studio
+## Microsoft Azure Libraries
+The Microsoft Azure software is supported by the Azure Microsoft Team. This repository includes the library debug binaries. The full source code for the listed libraries can be found here.
+### License
 #### Threadx
 
 This is the Microsoft Azure RTOS
